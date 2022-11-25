@@ -1,0 +1,56 @@
+#nav{
+    display: flex;
+    justify-content: space-between;
+    /* top, right, bottom, left */
+    padding: 0px 60px 0px 60px;
+    margin: 0px;
+    width: 100%;
+    box-sizing: border-box;
+    align-items: center;
+    position: fixed;
+}
+
+#title{
+    font-size: 35px;
+    color: #472836;
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 5px;
+
+}
+
+#title:hover{
+    color: #046865;
+    transition: 0.4s;
+}
+
+#menu{
+    display: flex;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    margin-left: 25px;
+}
+
+.option {
+    font-size: 20px;
+
+}
+
+a{
+    text-decoration: none; 
+    color: #046865;
+    /* font-weight: 600; */
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 3px;
+
+}
+
+a:hover{
+    color: #472836;
+    transition: 0.4s;
+}
+

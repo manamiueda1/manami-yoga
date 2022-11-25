@@ -1,12 +1,17 @@
 
+* {
+  background-color: #ECEBF3;
+}
+#App {
+ width: 100%;
+}
+#Content {
+  text-align: center;
+}
 
-
-
-
-
-
-
-
+ html {
+  scroll-behavior: smooth;
+}
 
 
 
