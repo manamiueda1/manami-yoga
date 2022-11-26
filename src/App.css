@@ -3,17 +3,25 @@
   background-color: #ECEBF3;
 }
 #App {
- width: 100%;
+  margin-bottom: 60px;
 }
+
 #Content {
   text-align: center;
+  /* flex-direction: column; */
+  /* justify-content: center; */
 }
 
  html {
   scroll-behavior: smooth;
 }
 
-
+p{
+  width: 50%;
+  margin: auto;
+  line-height: 1.5;
+  font-size: medium;
+}
 
 
 

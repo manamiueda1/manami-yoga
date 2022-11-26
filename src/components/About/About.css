@@ -1,3 +1,19 @@
-h2{
-    font-weight: 400;
+h1{
+    font-weight: 600;
+    letter-spacing: 3px;
+    font-size: 40px;
+    color: #046865;
+
 }
+
+#intro {
+    display: flex;
+}
+
+#intro-img{
+    height: 100%
+}
+#about-div{
+    min-width: 100px;
+  
+  }
